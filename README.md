@@ -2,9 +2,9 @@
 
 #### This is a Full Stack Tic Tac Toe python Web development website.
 
-#### This project running on : [My Repl](https://replit.com/@ViktoriusSuwand/AppBrewery-python-Day-83-Tic-Tac-Toe)
+#### This project running on : [My Repl](https://replit.com/@codedancer222/AppBrewery-python-Day-83-Tic-Tac-Toe)
 
-#### Documentation can be found on : [My Github](https://github.com/viktoriussuwandi/Tic-Tac-Toe-Python-Game-Development)
+#### Documentation can be found on : [My Github](https://github.com/codedancer222/Tic-Tac-Toe-Python-Game-Development)
 
 ## SERVER
 ![5](static/img/5.gif)
